@@ -74,9 +74,11 @@ If you want to run the random version of CDAN, add `--random` as a parameter.
 
 ## Citation
 Please cite the paper as follows if you use the code from VT-ADA:
+```
 @article{li2024vision,
   title={Vision Transformer-based Adversarial Domain Adaptation},
   author={Li, Yahan and Wu, Yuan},
   journal={arXiv preprint arXiv:2404.15817},
   year={2024}
 }
+```
